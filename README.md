@@ -1,6 +1,6 @@
-### Eaí! Eu sou o Raphael Melo 👋
+### Eaí! Eu sou o Raphael Melo 👋   
 
-➡️  Cursando ADS - Análise e Desenvolvimentos de Sistemas.  
+➡️  Cursando ADS - Análise e Desenvolvimentos de Sistemas | UNIP  
 
 <div align="center">
   <a href="https://github.com/raphaelgarcia7">
