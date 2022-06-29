@@ -1,4 +1,4 @@
-### Eaí! Eu sou o Raphael Melo 👋   
+### Eaí! Eu sou Raphael Melo 👋   
 
 ➡️  Cursando ADS - Análise e Desenvolvimento de Sistemas | UNIP  
 
