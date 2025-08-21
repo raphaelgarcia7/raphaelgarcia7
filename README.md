@@ -2,19 +2,19 @@
 
 ## 👨‍💻 About Me  
 Full Stack Developer with experience in building scalable and user-friendly applications.  
-Specialized in **TypeScript, React, C#, and SQL**, I enjoy designing solutions that seamlessly integrate backend, frontend, and cloud technologies.  
+Specialized in **TypeScript, React, C#, and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
 
-Beyond the technical side, I value **clean code, pragmatism, and problem-solving**, and I’m constantly improving my skills to build robust software and grow into an international career.  
+I value **clean code, pragmatism, and problem-solving**, and I’m always learning new technologies and improving my skills to deliver high-quality software and grow in an international career.  
 
 ---
 
 ## 📌 Current Role  
-💻 **Full Stack Developer** at Control 2 
-Focused on delivering impactful solutions, improving system scalability, and modernizing applications with React and .NET.  
+💻 **Full Stack Developer** at Control 2  
+Delivering impactful solutions, modernizing systems, and enhancing scalability using React and .NET.  
 
 ---
 
-## 🎓 Education  
+## 🎓 Formation  
 🎓 **Analysis and Systems Development** – UNIP  
 
 ---
