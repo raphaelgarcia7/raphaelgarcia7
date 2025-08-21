@@ -9,13 +9,13 @@ Beyond the technical side, I value **clean code, pragmatism, and problem-solving
 ---
 
 ## 📌 Current Role  
-💻 **Full Stack Developer** at [Sua Empresa/Startup]  
+💻 **Full Stack Developer** at Control 2 
 Focused on delivering impactful solutions, improving system scalability, and modernizing applications with React and .NET.  
 
 ---
 
 ## 🎓 Education  
-🎓 **Analysis and Systems Development** – UNISUAM  
+🎓 **Analysis and Systems Development** – UNIP  
 
 ---
 
@@ -73,5 +73,5 @@ Focused on delivering impactful solutions, improving system scalability, and mod
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelmelogarcia&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelgarcia7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </p>
