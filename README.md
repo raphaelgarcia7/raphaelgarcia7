@@ -1,9 +1,21 @@
-# 👋 Hi, I'm Raphael Melo
+# 👋 Hi, I'm Raphael Melo  
 
-💻 **Full Stack Developer**  
-🔹 Focused on building scalable and user-friendly applications  
-🔹 Currently working with **TypeScript, React, C#, and SQL**  
-🔹 Passionate about learning, problem-solving, and clean code  
+## 👨‍💻 About Me  
+Full Stack Developer with experience in building scalable and user-friendly applications.  
+Specialized in **TypeScript, React, C#, and SQL**, I enjoy designing solutions that seamlessly integrate backend, frontend, and cloud technologies.  
+
+Beyond the technical side, I value **clean code, pragmatism, and problem-solving**, and I’m constantly improving my skills to build robust software and grow into an international career.  
+
+---
+
+## 📌 Current Role  
+💻 **Full Stack Developer** at [Sua Empresa/Startup]  
+Focused on delivering impactful solutions, improving system scalability, and modernizing applications with React and .NET.  
+
+---
+
+## 🎓 Education  
+🎓 **Analysis and Systems Development** – UNISUAM  
 
 ---
 
@@ -53,15 +65,13 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/raphael-melo-garcia/)  
-- Email: **raphaelmelogarcia@gmail.com**
+- 📧 Email: **raphaelmelogarcia@gmail.com**  
 
 ---
 
 ## 📊 GitHub Analytics  
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelgarcia7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgarcia7&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelmelogarcia&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </p>
