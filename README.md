@@ -1,20 +1,21 @@
 # 👋 Hi, I'm Raphael Melo  
 
-## 👨‍💻 About Me  
-Full Stack Developer with hands-on experience building web applications and APIs.  
-I work mainly with **C# and ASP .NET** on the backend, and **TypeScript and React** on the frontend, always focusing on practical and maintainable solutions.
+## 👨‍💻 About Me
 
-My background includes working close to production systems, which helped me develop a strong problem-solving mindset and attention to code quality. I value **clean code, pragmatism, and continuous learning**, and I’m constantly improving my skills to grow as a developer.
+Full Stack Developer with hands-on experience building web applications and APIs.
+I work mainly with C# and ASP.NET on the backend and TypeScript and React on the frontend, always focusing on practical and maintainable solutions.
+
+My background includes working close to production systems, which helped me develop a strong problem-solving mindset and attention to code quality. I value clean code, pragmatism, and continuous learning, and I enjoy learning by doing and solving real-world problems as I continue to grow as a developer.
 
 ---
 
 ## 📌 Current Role  
 💻 **Full Stack Developer** at Control 2  
-Delivering impactful solutions, modernizing systems, and enhancing scalability using React and .NET.  
+Delivering impactful solutions, modernizing systems and enhancing scalability using React and .NET.  
 
 ---
 
-## 🎓 Formation  
+## 🎓 Education  
 🎓 **Analysis and Systems Development** – UNIP  
 
 ---
@@ -51,6 +52,14 @@ Delivering impactful solutions, modernizing systems, and enhancing scalability u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+</p>
+
+---
+
+🏗️ Infrastructure / Cloud
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" alt="DigitalOcean" /> 
 </p>
 
 ---
