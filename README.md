@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 Full Stack Developer with experience in building scalable and user-friendly applications.  
-Specialized in **TypeScript, React, C#, and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
+Specialized in **C#, TypeScript, JavaScript, ASP .NET, React, and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
 
 I value **clean code, pragmatism, and problem-solving**, and I’m always learning new technologies and improving my skills to deliver high-quality software and grow in an international career.  
 
@@ -58,10 +58,3 @@ Delivering impactful solutions, modernizing systems, and enhancing scalability u
 ## 📫 Connect with me  
 - [LinkedIn](https://www.linkedin.com/in/raphael-melo-garcia/)  
 - 📧 Email: **raphaelmelogarcia@gmail.com**  
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelgarcia7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-</p>
