@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Raphael Melo  
 
 ## 👨‍💻 About Me  
-Full Stack Developer with experience in building scalable and user-friendly applications.  
-Specialized in **C#, TypeScript, JavaScript, ASP .NET, React and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
+Full Stack Developer with hands-on experience building web applications and APIs.  
+I work mainly with **C# and ASP .NET** on the backend, and **TypeScript and React** on the frontend, always focusing on practical and maintainable solutions.
 
-I value **clean code, pragmatism, and problem-solving**, and I’m always learning new technologies and improving my skills to deliver high-quality software and grow in an international career.  
+My background includes working close to production systems, which helped me develop a strong problem-solving mindset and attention to code quality. I value **clean code, pragmatism, and continuous learning**, and I’m constantly improving my skills to grow as a developer.
 
 ---
 
@@ -21,6 +21,12 @@ Delivering impactful solutions, modernizing systems, and enhancing scalability u
 
 ## 🛠️ Tech Stack  
 
+### Backend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+</p>
+
 ### Frontend  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
@@ -30,12 +36,6 @@ Delivering impactful solutions, modernizing systems, and enhancing scalability u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-</p>
-
-### Backend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
 </p>
 
 ### Databases  
