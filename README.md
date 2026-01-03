@@ -2,10 +2,9 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with hands-on experience building web applications and APIs.
-I work mainly with C# and ASP.NET on the backend and TypeScript and React on the frontend, always focusing on practical and maintainable solutions.
+Full Stack Developer with hands-on experience building web applications and APIs. I work mainly with C# and ASP.NET on the backend and TypeScript and React on the frontend, always focusing on practical and maintainable solutions.
 
-My background includes working close to production systems, which helped me develop a strong problem-solving mindset and attention to code quality. I value clean code, pragmatism, and continuous learning, and I enjoy learning by doing and solving real-world problems as I continue to grow as a developer.
+My background includes working close to production systems, handling bug fixes, system stability, and modernization efforts in real-world environments. This experience helped me develop a strong problem-solving mindset and attention to code quality. I value clean code, pragmatism, and continuous learning, and I enjoy learning by doing and solving real-world problems as I continue to grow as a developer.
 
 ---
 
