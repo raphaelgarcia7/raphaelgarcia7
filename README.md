@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 Full Stack Developer with experience in building scalable and user-friendly applications.  
-Specialized in **C#, TypeScript, JavaScript, ASP .NET, React, and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
+Specialized in **C#, TypeScript, JavaScript, ASP .NET, React and SQL**, I focus on delivering solutions that integrate backend, frontend, and cloud technologies seamlessly.  
 
 I value **clean code, pragmatism, and problem-solving**, and I’m always learning new technologies and improving my skills to deliver high-quality software and grow in an international career.  
 
