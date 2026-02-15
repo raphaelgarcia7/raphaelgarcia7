@@ -2,15 +2,17 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with hands-on experience building web applications and APIs. I work mainly with C# and ASP.NET on the backend and TypeScript and React on the frontend, always focusing on practical and maintainable solutions.
+Backend-focused Software Engineer with **2 years of experience working with C#** and .NET, building APIs and business applications with a strong focus on reliability, maintainability, and real-world impact.
 
-My background includes working close to production systems, handling bug fixes, system stability, and modernization efforts in real-world environments. This experience helped me develop a strong problem-solving mindset and attention to code quality. I value clean code, pragmatism, and continuous learning, and I enjoy learning by doing and solving real-world problems as I continue to grow as a developer.
+I have hands-on experience with production systems, including bug fixing, modernization, and system stability improvements. I also bring solid frontend experience with **TypeScript and React**, which helps me collaborate across the stack and deliver end-to-end solutions when needed.
+
+I value clean code, pragmatic engineering decisions, and continuous learning through real product challenges.
 
 ---
 
 ## 📌 Current Role  
-💻 **Full Stack Developer** at Control 2  
-Delivering impactful solutions, modernizing systems and enhancing scalability using React and .NET.  
+💻 **Backend Software Engineer (Full Stack experience)** at Control 2  
+Building and evolving .NET services and APIs, while also contributing to frontend initiatives with React when needed.
 
 ---
 
