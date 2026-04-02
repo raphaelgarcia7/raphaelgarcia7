@@ -67,14 +67,6 @@ Working on backend services and APIs, contributing to system evolution, integrat
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced **Spring Boot**
-- **Microservices architecture**
-- **Cloud-native backend development**
-
----
-
 ## 📫 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/raphael-melo-garcia  
