@@ -27,7 +27,7 @@ e princípios SOLID em APIs C#/ASP.NET Core, além de sustentação de sistemas 
 ---
 
 ## 🎓 Formação
-Tecnologia em Análise e Desenvolvimento de Sistemas – UNIP
+Tecnólogo em Análise e Desenvolvimento de Sistemas – UNIP
 
 ---
 
