@@ -1,4 +1,4 @@
-# Olá, eu sou o Raphael Melo 👋
+# Olá, eu sou Raphael Melo 👋
 
 Desenvolvedor Fullstack com foco em **C# / ASP.NET Core** no backend e **React** no 
 frontend, atuando no desenvolvimento de APIs REST, integrações entre sistemas e 
