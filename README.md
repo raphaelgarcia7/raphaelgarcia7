@@ -5,8 +5,7 @@ frontend, atuando no desenvolvimento de APIs REST, integrações entre sistemas 
 interfaces web em ambiente de produção.
 
 Tenho experiência prática com separação de responsabilidades, injeção de dependência 
-e princípios SOLID em APIs C#/ASP.NET Core, além de sustentação de sistemas críticos 
-— o que me deu visão de quem mantém código em produção de verdade.
+e princípios SOLID em APIs C#/ASP.NET Core, além de sustentação de sistemas críticos, o que me deu visão de quem mantém código em produção de verdade.
 
 ---
 
