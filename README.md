@@ -1,35 +1,52 @@
-# Olá, eu sou Raphael Melo 👋
 
-Desenvolvedor Fullstack com foco em **C# / ASP.NET Core** no backend e **React** no 
-frontend, atuando no desenvolvimento de APIs REST, integrações entre sistemas e 
-interfaces web em ambiente de produção.
+# Hey, I'm Raphael Melo 👋
 
-Tenho experiência prática com separação de responsabilidades, injeção de dependência 
-e princípios SOLID em APIs C#/ASP.NET Core, além de sustentação de sistemas críticos, o que me deu visão de quem mantém código em produção de verdade.
+**Software Engineer | Applied AI Engineering**
 
----
+I'm a software engineer focused on building AI-powered products that solve real business problems.
 
-## 🛠️ Stack
+My career started in technical support, where I learned how production systems behave, how businesses operate, and how technical decisions impact real users.
 
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt="ASP.NET Core" />
+That experience shaped my transition into full-stack software engineering, building APIs, integrations, and web applications in production environments.
 
-### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+Today, I work as a Software Developer at **MedRoom** while specializing in **Applied AI Engineering**, with a focus on LLM-powered applications, AI agents, and systems that connect language models to real business workflows.
 
-### Banco de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+I'm particularly interested in the engineering challenges behind AI applications: orchestration, state management, tool integration, streaming, reliability, and human oversight.
 
-### Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+## What I'm working on
 
----
+- Building AI agents that interact with APIs and business systems
+- Exploring stateful workflows, conversational memory, and human-in-the-loop patterns
+- Developing end-to-end AI applications, from backend services to user interfaces
+- Applying software engineering principles to make AI systems reliable and maintainable
 
-## 🎓 Formação
-Tecnólogo em Análise e Desenvolvimento de Sistemas – UNIP
+## Selected Projects
 
----
+### Unvibe — AI-Powered Code Review
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/raphael-melo-garcia
-- Email: raphaelmelogarcia@gmail.com
+An AI-assisted GitHub workflow built during a team hackathon.
+
+The application analyzes pull requests, identifies potential security vulnerabilities, and proposes automated fixes.
+
+**Focus:** AI agents, code analysis, GitHub integration, and automated workflows.
+
+### RentalOps Agent — Conversational Rental Management
+
+An AI application under development, inspired by a real rental business.
+
+The goal is to connect a conversational agent to operational workflows, including availability checks, reservations, and inventory management.
+
+**Focus:** LLM applications, tool calling, stateful workflows, and business logic integration.
+
+## Engineering Background
+
+**Applied AI:** Python, FastAPI, LangGraph, LangChain, OpenAI API
+
+**Software Engineering:** C#, .NET, TypeScript, React, Next.js, REST APIs
+
+**Data & Infrastructure:** PostgreSQL, SQL Server, Docker, Git
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/raphael-melo-garcia)
+- [Email](mailto:raphaelmelogarcia@gmail.com)
