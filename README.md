@@ -1,5 +1,5 @@
 
-# Hey, I'm Raphael Melo 👋
+# What's up? I'm Raphael Melo
 
 **Software Engineer | Applied AI Engineering**
 
